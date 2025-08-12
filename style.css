@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+::backdrop {
+    background-color: #222222;
+    opacity: 0.5;
+}
